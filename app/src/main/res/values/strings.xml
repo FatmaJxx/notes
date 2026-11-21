@@ -1,0 +1,40 @@
+<resources >
+    <string name="app_name">Notes</string>
+    <string name="note_editor_screen_title">Create Note</string>
+    <string name="btn_action_cancel">Cancel</string>
+    <string name="btn_action_delete">Delete</string>
+    <string name="feature_agent_title">Notes Agent</string>
+    <string name="feature_agent_gemma_loading">Gemma is Loading…</string>
+    <string name="feature_agent_gemma_downloading">Gemma is downloading…</string>
+    <string name="feature_agent_text_field_placeholder">Search notes</string>
+    <string name="feature_agent_gemma_is_not_downloaded">Gemma is not downloaded</string>
+    <string name="feature_agent_gemma_btn_action_download">Download</string>
+    <string name="feature_agent_gemma_is_not_loaded">Gemma is not loaded</string>
+    <string name="feature_agent_gemma_btn_action_load">Load</string>
+    <string name="feature_folder_sheet_create_new_folder">Create new Folder</string>
+    <string name="feature_folder_sheet_dialog_title">New Folder</string>
+    <string name="feature_folder_sheet_dialog_text_field_label">Folder name</string>
+    <string name="feature_folder_sheet_dialog_btn_action_create">Create</string>
+    <string name="feature_folder_sheet_dialog_btn_action_cancel">Cancel</string>
+    <string name="feature_folders_title">Folders</string>
+    <string name="feature_folders_pinned_folder_title">Pinned</string>
+    <string name="feature_folders_favorites_folder_title">Favorites</string>
+    <string name="feature_folders_tags_folder_title">Tags</string>
+    <string name="feature_folders_archive_folder_title">Archive</string>
+    <string name="feature_folders_trash_folder_title">Trash</string>
+    <string name="feature_folders_dialog_title">New Folder</string>
+    <string name="feature_folders_text_field_label">Folder name</string>
+    <string name="feature_folders_btn_action_create">Create</string>
+    <string name="feature_folders_btn_action_cancel">Cancel</string>
+    <string name="feature_tags_title">Tags</string>
+    <string name="feature_tags_text_field_placeholder">Search tags</string>
+    <string name="feature_tags_dialog_title">New Tag</string>
+    <string name="feature_tags_text_field_label">Tag name</string>
+    <string name="feature_tags_btn_action_create">Create</string>
+    <string name="feature_tags_btn_action_cancel">Cancel</string>
+    <string name="feature_tags_create_new_tag">Create new tag</string>
+    <string name="feature_trash_title">Trash</string>
+    <string name="feature_trash_btn_action_empty_trash">Empty</string>
+    <string name="feature_trash_items_deleted_after">Trash</string>
+
+</resources>
